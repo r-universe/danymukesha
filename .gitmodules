@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dormancy"]
+	path = dormancy
+	url = https://github.com/danymukesha/dormancy
 [submodule "genetic.algo.optimizeR"]
 	path = genetic.algo.optimizeR
 	url = https://github.com/danymukesha/genetic.algo.optimizer
